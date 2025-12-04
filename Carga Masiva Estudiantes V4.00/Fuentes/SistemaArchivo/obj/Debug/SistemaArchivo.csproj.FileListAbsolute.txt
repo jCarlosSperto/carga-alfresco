@@ -1,0 +1,1096 @@
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.exe.config
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.exe
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.pdb
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmEdicionCaratulas.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmBuscaCaratulas.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCalendarioTransferencias.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoDisposicionDocumental.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoUsuariosSistema.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmImportarCaratulas.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePensionados.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSDocumentos.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSTipoTramite.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformacionComplementariaTomos.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCatalogoDisposicionDocumental.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCuadroClasificacionArchivistica.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeHistoricoSolicitudesPrestamo.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoConcentracion.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoTramite.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeSolicitudesNoDevueltas.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoConcentracion.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoTramite.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmMDI.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmPrestamosArchivoConcentracion.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmRegistroCaratulas.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReimpresionTransferenciaArchivoConcentracion.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencia.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencias.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCatalogoUsuariosSistema.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCuadroClasificacionArchivistica.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoConcentracion.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoTramite.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteHistoricoSolicitudesPrestamo.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteIndicePensionados.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePorExpirarArchivoTramite.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePrestamosArchivoConcentracion.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulas.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulasComplemento.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSecciones.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSeriesDocumentales.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSolicitudesNoDevueltas.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSubsecciones.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTiposTramites.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracion.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSecciones.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeleccionaCaratulasImpresion.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeriesDocumentales.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSubsecciones.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmTransferenciasExpedientesArchivoConcentracion.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.Properties.Resources.resources
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.Cache
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.exe
+C:\Trabajo\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.pdb
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.exe.config
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.exe
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.pdb
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.exe
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.pdb
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.csprojResolveAssemblyReference.cache
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmEdicionCaratulas.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmBuscaCaratulas.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCalendarioTransferencias.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoDisposicionDocumental.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoUsuariosSistema.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmImportarCaratulas.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePensionados.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSDocumentos.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSTipoTramite.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformacionComplementariaTomos.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCatalogoDisposicionDocumental.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCuadroClasificacionArchivistica.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeHistoricoSolicitudesPrestamo.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoConcentracion.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoTramite.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeSolicitudesNoDevueltas.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoConcentracion.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoTramite.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmMDI.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmPrestamosArchivoConcentracion.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmRegistroCaratulas.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReimpresionTransferenciaArchivoConcentracion.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencia.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencias.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCatalogoUsuariosSistema.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCuadroClasificacionArchivistica.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoConcentracion.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoTramite.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteHistoricoSolicitudesPrestamo.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteIndicePensionados.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePorExpirarArchivoTramite.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePrestamosArchivoConcentracion.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulas.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulasComplemento.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSecciones.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSeriesDocumentales.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSolicitudesNoDevueltas.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSubsecciones.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTiposTramites.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracion.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSecciones.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeleccionaCaratulasImpresion.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeriesDocumentales.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSubsecciones.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmTransferenciasExpedientesArchivoConcentracion.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.Properties.Resources.resources
+C:\Trabajo\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.Cache
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.exe.config
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.exe
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.pdb
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.exe
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.pdb
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.csprojResolveAssemblyReference.cache
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmEdicionCaratulas.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmBuscaCaratulas.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCalendarioTransferencias.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoDisposicionDocumental.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoUsuariosSistema.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmImportarCaratulas.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePensionados.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSDocumentos.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSTipoTramite.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformacionComplementariaTomos.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCatalogoDisposicionDocumental.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCuadroClasificacionArchivistica.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeHistoricoSolicitudesPrestamo.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoConcentracion.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoTramite.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeSolicitudesNoDevueltas.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoConcentracion.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoTramite.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmMDI.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmPrestamosArchivoConcentracion.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmRegistroCaratulas.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReimpresionTransferenciaArchivoConcentracion.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencia.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencias.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCatalogoUsuariosSistema.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCuadroClasificacionArchivistica.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoConcentracion.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoTramite.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteHistoricoSolicitudesPrestamo.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteIndicePensionados.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePorExpirarArchivoTramite.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePrestamosArchivoConcentracion.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulas.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulasComplemento.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSecciones.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSeriesDocumentales.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSolicitudesNoDevueltas.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSubsecciones.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTiposTramites.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracion.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSecciones.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeleccionaCaratulasImpresion.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeriesDocumentales.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSubsecciones.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmTransferenciasExpedientesArchivoConcentracion.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.Properties.Resources.resources
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.Cache
+C:\Trabajo 20160823\DARG VS2013\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracionOrdenadoNI.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.exe.config
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.exe
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.pdb
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.exe
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.pdb
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.csprojResolveAssemblyReference.cache
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmEdicionCaratulas.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmBuscaCaratulas.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCalendarioTransferencias.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoDisposicionDocumental.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoUsuariosSistema.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmImportarCaratulas.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePensionados.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSDocumentos.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSTipoTramite.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformacionComplementariaTomos.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCatalogoDisposicionDocumental.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCuadroClasificacionArchivistica.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeHistoricoSolicitudesPrestamo.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoConcentracion.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoTramite.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeSolicitudesNoDevueltas.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoConcentracion.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoTramite.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmMDI.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmPrestamosArchivoConcentracion.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmRegistroCaratulas.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReimpresionTransferenciaArchivoConcentracion.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencia.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencias.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCatalogoUsuariosSistema.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCuadroClasificacionArchivistica.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoConcentracion.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoTramite.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteHistoricoSolicitudesPrestamo.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteIndicePensionados.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePorExpirarArchivoTramite.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePrestamosArchivoConcentracion.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulas.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulasComplemento.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSecciones.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSeriesDocumentales.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSolicitudesNoDevueltas.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSubsecciones.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTiposTramites.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracion.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracionOrdenadoNI.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSecciones.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeleccionaCaratulasImpresion.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeriesDocumentales.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSubsecciones.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmTransferenciasExpedientesArchivoConcentracion.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.Properties.Resources.resources
+C:\GIT\DARG\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.Cache
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.exe.config
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.exe
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.pdb
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.exe
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.pdb
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.csprojResolveAssemblyReference.cache
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmEdicionCaratulas.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmBuscaCaratulas.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCalendarioTransferencias.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoDisposicionDocumental.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoUsuariosSistema.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmImportarCaratulas.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePensionados.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSDocumentos.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSTipoTramite.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformacionComplementariaTomos.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCatalogoDisposicionDocumental.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCuadroClasificacionArchivistica.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeHistoricoSolicitudesPrestamo.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoConcentracion.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoTramite.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeSolicitudesNoDevueltas.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoConcentracion.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoTramite.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmMDI.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmPrestamosArchivoConcentracion.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmRegistroCaratulas.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReimpresionTransferenciaArchivoConcentracion.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencia.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencias.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCatalogoUsuariosSistema.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCuadroClasificacionArchivistica.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoConcentracion.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoTramite.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteHistoricoSolicitudesPrestamo.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteIndicePensionados.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePorExpirarArchivoTramite.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePrestamosArchivoConcentracion.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulas.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulasComplemento.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSecciones.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSeriesDocumentales.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSolicitudesNoDevueltas.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSubsecciones.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTiposTramites.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracion.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracionOrdenadoNI.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSecciones.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeleccionaCaratulasImpresion.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeriesDocumentales.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSubsecciones.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmTransferenciasExpedientesArchivoConcentracion.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.Properties.Resources.resources
+E:\Personal\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.Cache
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.exe.config
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.exe
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.pdb
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.exe
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.pdb
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.csprojResolveAssemblyReference.cache
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmEdicionCaratulas.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmBuscaCaratulas.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCalendarioTransferencias.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoDisposicionDocumental.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoUsuariosSistema.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmImportarCaratulas.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePensionados.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSDocumentos.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSTipoTramite.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformacionComplementariaTomos.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCatalogoDisposicionDocumental.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCuadroClasificacionArchivistica.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeHistoricoSolicitudesPrestamo.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoConcentracion.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoTramite.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeSolicitudesNoDevueltas.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoConcentracion.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoTramite.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmMDI.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmPrestamosArchivoConcentracion.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmRegistroCaratulas.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReimpresionTransferenciaArchivoConcentracion.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencia.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencias.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCatalogoUsuariosSistema.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCuadroClasificacionArchivistica.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoConcentracion.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoTramite.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteHistoricoSolicitudesPrestamo.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteIndicePensionados.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePorExpirarArchivoTramite.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePrestamosArchivoConcentracion.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulas.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulasComplemento.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSecciones.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSeriesDocumentales.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSolicitudesNoDevueltas.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSubsecciones.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTiposTramites.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracion.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracionOrdenadoNI.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSecciones.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeleccionaCaratulasImpresion.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeriesDocumentales.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSubsecciones.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmTransferenciasExpedientesArchivoConcentracion.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.Properties.Resources.resources
+C:\Users\MAGUILAR\Desktop\Proyectos\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.Cache
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.exe.config
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.exe
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.pdb
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmEdicionCaratulas.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmBuscaCaratulas.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCalendarioTransferencias.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoDisposicionDocumental.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoUsuariosSistema.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmImportarCaratulas.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePensionados.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSDocumentos.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSTipoTramite.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformacionComplementariaTomos.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCatalogoDisposicionDocumental.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCuadroClasificacionArchivistica.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeHistoricoSolicitudesPrestamo.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoConcentracion.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoTramite.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeSolicitudesNoDevueltas.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoConcentracion.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoTramite.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmMDI.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmPrestamosArchivoConcentracion.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmRegistroCaratulas.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReimpresionTransferenciaArchivoConcentracion.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencia.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencias.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCatalogoUsuariosSistema.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCuadroClasificacionArchivistica.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoConcentracion.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoTramite.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteHistoricoSolicitudesPrestamo.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteIndicePensionados.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePorExpirarArchivoTramite.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePrestamosArchivoConcentracion.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulas.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulasComplemento.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSecciones.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSeriesDocumentales.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSolicitudesNoDevueltas.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSubsecciones.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTiposTramites.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracion.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracionOrdenadoNI.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSecciones.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeleccionaCaratulasImpresion.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeriesDocumentales.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSubsecciones.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmTransferenciasExpedientesArchivoConcentracion.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.Properties.Resources.resources
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.Cache
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.exe
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.pdb
+C:\DARG Digitalización\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.csprojResolveAssemblyReference.cache
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.exe.config
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.exe
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.pdb
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.exe
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.pdb
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmEdicionCaratulas.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmBuscaCaratulas.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCalendarioTransferencias.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoDisposicionDocumental.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoUsuariosSistema.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmImportarCaratulas.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePensionados.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSDocumentos.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSTipoTramite.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformacionComplementariaTomos.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCatalogoDisposicionDocumental.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCuadroClasificacionArchivistica.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeHistoricoSolicitudesPrestamo.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoConcentracion.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoTramite.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeSolicitudesNoDevueltas.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoConcentracion.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoTramite.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmMDI.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmPrestamosArchivoConcentracion.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmRegistroCaratulas.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReimpresionTransferenciaArchivoConcentracion.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencia.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencias.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCatalogoUsuariosSistema.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCuadroClasificacionArchivistica.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoConcentracion.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoTramite.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteHistoricoSolicitudesPrestamo.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteIndicePensionados.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePorExpirarArchivoTramite.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePrestamosArchivoConcentracion.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulas.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulasComplemento.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSecciones.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSeriesDocumentales.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSolicitudesNoDevueltas.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSubsecciones.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTiposTramites.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracion.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracionOrdenadoNI.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSecciones.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeleccionaCaratulasImpresion.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeriesDocumentales.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSubsecciones.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmTransferenciasExpedientesArchivoConcentracion.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.Properties.Resources.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.Cache
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\bin\Debug\itextsharp.dll
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\bin\Debug\TwainScanning.dll
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\bin\Debug\itextsharp.xml
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\bin\Debug\Interop.AcroPDFLib.dll
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\Interop.AcroPDFLib.dll
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.ResolveComReference.cache
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.Digitalizacion.resources
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.AdvanceSampleForm.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.exe.config
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\Interop.AcroPDFLib.dll
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.ResolveComReference.cache
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.exe
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.pdb
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.exe
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\bin\Debug\SistemaArchivo.pdb
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\bin\Debug\itextsharp.dll
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\bin\Debug\TwainScanning.dll
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\bin\Debug\itextsharp.xml
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\bin\Debug\Interop.AcroPDFLib.dll
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.Digitalizacion.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmEdicionCaratulas.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmBuscaCaratulas.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCalendarioTransferencias.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoDisposicionDocumental.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoUsuariosSistema.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmImportarCaratulas.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePensionados.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSDocumentos.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSTipoTramite.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformacionComplementariaTomos.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCatalogoDisposicionDocumental.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCuadroClasificacionArchivistica.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeHistoricoSolicitudesPrestamo.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoConcentracion.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoTramite.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeSolicitudesNoDevueltas.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoConcentracion.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoTramite.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmMDI.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.AdvanceSampleForm.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmPrestamosArchivoConcentracion.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmRegistroCaratulas.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReimpresionTransferenciaArchivoConcentracion.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencia.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencias.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCatalogoUsuariosSistema.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCuadroClasificacionArchivistica.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoConcentracion.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoTramite.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteHistoricoSolicitudesPrestamo.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteIndicePensionados.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePorExpirarArchivoTramite.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePrestamosArchivoConcentracion.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulas.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulasComplemento.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSecciones.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSeriesDocumentales.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSolicitudesNoDevueltas.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSubsecciones.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTiposTramites.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracion.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracionOrdenadoNI.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSecciones.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeleccionaCaratulasImpresion.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeriesDocumentales.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSubsecciones.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmTransferenciasExpedientesArchivoConcentracion.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.Properties.Resources.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.Cache
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\x86\NET_v2.0\SistemaArchivo.exe.config
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\x86\NET_v2.0\SistemaArchivo.exe
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\x86\NET_v2.0\SistemaArchivo.pdb
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\x86\NET_v2.0\itextsharp.dll
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\x86\NET_v2.0\TwainScanning.dll
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\x86\NET_v2.0\itextsharp.xml
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\x86\NET_v2.0\Interop.AcroPDFLib.dll
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\x86\NET_v2.0\AxInterop.AcroPDFLib.dll
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmBajaDocumental.resources
+D:\DARG\DARG Digitalización Modificado\DARG Digitalización Modificado\SistemaArchivo\SistemaArchivo\obj\Debug\SistemaArchivo.csprojResolveAssemblyReference.cache
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\x86\NET_v2.0\SistemaArchivo.exe.config
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.ResolveComReference.cache
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.exe
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.pdb
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\x86\NET_v2.0\SistemaArchivo.exe
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\x86\NET_v2.0\SistemaArchivo.pdb
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\x86\NET_v2.0\itextsharp.dll
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\x86\NET_v2.0\TwainScanning.dll
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\x86\NET_v2.0\itextsharp.xml
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\x86\NET_v2.0\Interop.AcroPDFLib.dll
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\x86\NET_v2.0\AxInterop.AcroPDFLib.dll
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.AdvanceSampleForm.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.Digitalizacion.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmEdicionCaratulas.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmBuscaCaratulas.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCalendarioTransferencias.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoDisposicionDocumental.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoUsuariosSistema.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmImportarCaratulas.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePensionados.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSDocumentos.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSTipoTramite.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformacionComplementariaTomos.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCatalogoDisposicionDocumental.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCuadroClasificacionArchivistica.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeHistoricoSolicitudesPrestamo.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoTramite.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeSolicitudesNoDevueltas.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoTramite.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmMDI.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmPrestamosArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmRegistroCaratulas.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReimpresionTransferenciaArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencia.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencias.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCatalogoUsuariosSistema.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCuadroClasificacionArchivistica.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoTramite.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteHistoricoSolicitudesPrestamo.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteIndicePensionados.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePorExpirarArchivoTramite.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePrestamosArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulas.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulasComplemento.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSecciones.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSeriesDocumentales.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSolicitudesNoDevueltas.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSubsecciones.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTiposTramites.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracionOrdenadoNI.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSecciones.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeleccionaCaratulasImpresion.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeriesDocumentales.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSubsecciones.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmTransferenciasExpedientesArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.Properties.Resources.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.Cache
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmExpedientesVencidos.resources
+C:\Desarrollo\SistemaArchivo20190716\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmBajaDocumental1.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\x86\NET_v2.0\SistemaArchivo.exe.config
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.ResolveComReference.cache
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.exe
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.pdb
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\x86\NET_v2.0\SistemaArchivo.exe
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\x86\NET_v2.0\SistemaArchivo.pdb
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\x86\NET_v2.0\itextsharp.dll
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\x86\NET_v2.0\RestSharp.dll
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\x86\NET_v2.0\TwainScanning.dll
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\x86\NET_v2.0\itextsharp.xml
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\x86\NET_v2.0\RestSharp.xml
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\x86\NET_v2.0\Interop.AcroPDFLib.dll
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\x86\NET_v2.0\AxInterop.AcroPDFLib.dll
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmBajaDocumental1.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmExpedientesVencidos.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.AdvanceSampleForm.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.Digitalizacion.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmEdicionCaratulas.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmBuscaCaratulas.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCalendarioTransferencias.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoDisposicionDocumental.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoUsuariosSistema.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmImportarCaratulas.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePensionados.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSDocumentos.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSTipoTramite.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformacionComplementariaTomos.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCatalogoDisposicionDocumental.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCuadroClasificacionArchivistica.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeHistoricoSolicitudesPrestamo.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoTramite.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeSolicitudesNoDevueltas.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoTramite.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmMDI.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmPrestamosArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmRegistroCaratulas.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReimpresionTransferenciaArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencia.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencias.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCatalogoUsuariosSistema.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCuadroClasificacionArchivistica.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoTramite.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteHistoricoSolicitudesPrestamo.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteIndicePensionados.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePorExpirarArchivoTramite.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePrestamosArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulas.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulasComplemento.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSecciones.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSeriesDocumentales.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSolicitudesNoDevueltas.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSubsecciones.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTiposTramites.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracionOrdenadoNI.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSecciones.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeleccionaCaratulasImpresion.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeriesDocumentales.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSubsecciones.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmTransferenciasExpedientesArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.Properties.Resources.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.Cache
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmExpedientesBajaDocumental.resources
+C:\Desarrollo\SistemaArchivo20190724\SistemaArchivo\obj\Debug\SistemaArchivo.csprojResolveAssemblyReference.cache
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\x86\NET_v2.0\SistemaArchivo.exe.config
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.ResolveComReference.cache
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.exe
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.pdb
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\x86\NET_v2.0\SistemaArchivo.exe
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\x86\NET_v2.0\SistemaArchivo.pdb
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\x86\NET_v2.0\itextsharp.dll
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\x86\NET_v2.0\RestSharp.dll
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\x86\NET_v2.0\TwainScanning.dll
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\x86\NET_v2.0\itextsharp.xml
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\x86\NET_v2.0\RestSharp.xml
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\x86\NET_v2.0\Interop.AcroPDFLib.dll
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\x86\NET_v2.0\AxInterop.AcroPDFLib.dll
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmBajaDocumental1.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmExpedientesBajaDocumental.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmExpedientesVencidos.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.AdvanceSampleForm.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.Digitalizacion.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmEdicionCaratulas.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmBuscaCaratulas.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCalendarioTransferencias.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoDisposicionDocumental.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmCatalogoUsuariosSistema.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmImportarCaratulas.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePensionados.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSDocumentos.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmIndicePSTipoTramite.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformacionComplementariaTomos.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCatalogoDisposicionDocumental.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeCuadroClasificacionArchivistica.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeHistoricoSolicitudesPrestamo.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformePorExpirarArchivoTramite.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInformeSolicitudesNoDevueltas.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInventarioArchivoTramite.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmMDI.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmPrestamosArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmRegistroCaratulas.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReimpresionTransferenciaArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencia.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCalendarioTransferencias.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCatalogoUsuariosSistema.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteCuadroClasificacionArchivistica.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteExpedientesArchivoTramite.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteHistoricoSolicitudesPrestamo.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteIndicePensionados.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePorExpirarArchivoTramite.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReportePrestamosArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulas.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteRegistroCaratulasComplemento.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSecciones.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSeriesDocumentales.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSolicitudesNoDevueltas.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteSubsecciones.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTiposTramites.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmReporteTransferenciasExpedientesArchivoConcentracionOrdenadoNI.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSecciones.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeleccionaCaratulasImpresion.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSeriesDocumentales.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmSubsecciones.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmTransferenciasExpedientesArchivoConcentracion.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.Properties.Resources.resources
+C:\Desarrollo\SistemaArchivo20191010\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.Cache
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.ResolveComReference.cache
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.AdvanceSampleForm.resources
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\obj\Debug\SistemaArchivo.Digitalizacion.resources
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmMDI.resources
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmRegistroCaratulas.resources
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\obj\Debug\SistemaArchivo.Properties.Resources.resources
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.cache
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CoreCompileInputs.cache
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\obj\Debug\SistemaArchivo.exe
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\obj\Debug\SistemaArchivo.pdb
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\x86\NET_v2.0\SistemaArchivo.exe.config
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\x86\NET_v2.0\SistemaArchivo.exe
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\x86\NET_v2.0\SistemaArchivo.pdb
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\x86\NET_v2.0\itextsharp.dll
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\x86\NET_v2.0\RestSharp.dll
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\x86\NET_v2.0\TwainScanning.dll
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\x86\NET_v2.0\itextsharp.xml
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\x86\NET_v2.0\RestSharp.xml
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\x86\NET_v2.0\Interop.AcroPDFLib.dll
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\x86\NET_v2.0\AxInterop.AcroPDFLib.dll
+C:\Desarrollos\WebServicesDurango\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CopyComplete
+C:\Desarrollos\WebServicesDurangoAplicacionVS\SistemaArchivo\x86\NET_v2.0\SistemaArchivo.exe.config
+C:\Desarrollos\WebServicesDurangoAplicacionVS\SistemaArchivo\x86\NET_v2.0\SistemaArchivo.exe
+C:\Desarrollos\WebServicesDurangoAplicacionVS\SistemaArchivo\x86\NET_v2.0\SistemaArchivo.pdb
+C:\Desarrollos\WebServicesDurangoAplicacionVS\SistemaArchivo\x86\NET_v2.0\RestSharp.dll
+C:\Desarrollos\WebServicesDurangoAplicacionVS\SistemaArchivo\x86\NET_v2.0\RestSharp.xml
+C:\Desarrollos\WebServicesDurangoAplicacionVS\SistemaArchivo\x86\NET_v2.0\Interop.AcroPDFLib.dll
+C:\Desarrollos\WebServicesDurangoAplicacionVS\SistemaArchivo\x86\NET_v2.0\AxInterop.AcroPDFLib.dll
+C:\Desarrollos\WebServicesDurangoAplicacionVS\SistemaArchivo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Desarrollos\WebServicesDurangoAplicacionVS\SistemaArchivo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Desarrollos\WebServicesDurangoAplicacionVS\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.ResolveComReference.cache
+C:\Desarrollos\WebServicesDurangoAplicacionVS\SistemaArchivo\obj\Debug\SistemaArchivo.Digitalizacion.resources
+C:\Desarrollos\WebServicesDurangoAplicacionVS\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmMDI.resources
+C:\Desarrollos\WebServicesDurangoAplicacionVS\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmRegistroCaratulas.resources
+C:\Desarrollos\WebServicesDurangoAplicacionVS\SistemaArchivo\obj\Debug\SistemaArchivo.Properties.Resources.resources
+C:\Desarrollos\WebServicesDurangoAplicacionVS\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.cache
+C:\Desarrollos\WebServicesDurangoAplicacionVS\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CoreCompileInputs.cache
+C:\Desarrollos\WebServicesDurangoAplicacionVS\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CopyComplete
+C:\Desarrollos\WebServicesDurangoAplicacionVS\SistemaArchivo\obj\Debug\SistemaArchivo.exe
+C:\Desarrollos\WebServicesDurangoAplicacionVS\SistemaArchivo\obj\Debug\SistemaArchivo.pdb
+C:\Desarrollos\WebServicesDurangoAplicacionVS\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInterfaceAlfresco.resources
+C:\Desarrollos\Plataforma Durango\ProgramaInterfaceAlfresco\SistemaArchivo\x86\NET_v2.0\InterfaceAlfresco.exe.config
+C:\Desarrollos\Plataforma Durango\ProgramaInterfaceAlfresco\SistemaArchivo\x86\NET_v2.0\InterfaceAlfresco.exe
+C:\Desarrollos\Plataforma Durango\ProgramaInterfaceAlfresco\SistemaArchivo\x86\NET_v2.0\InterfaceAlfresco.pdb
+C:\Desarrollos\Plataforma Durango\ProgramaInterfaceAlfresco\SistemaArchivo\x86\NET_v2.0\RestSharp.dll
+C:\Desarrollos\Plataforma Durango\ProgramaInterfaceAlfresco\SistemaArchivo\x86\NET_v2.0\RestSharp.xml
+C:\Desarrollos\Plataforma Durango\ProgramaInterfaceAlfresco\SistemaArchivo\x86\NET_v2.0\Interop.AcroPDFLib.dll
+C:\Desarrollos\Plataforma Durango\ProgramaInterfaceAlfresco\SistemaArchivo\x86\NET_v2.0\AxInterop.AcroPDFLib.dll
+C:\Desarrollos\Plataforma Durango\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Desarrollos\Plataforma Durango\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Desarrollos\Plataforma Durango\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.ResolveComReference.cache
+C:\Desarrollos\Plataforma Durango\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.Digitalizacion.resources
+C:\Desarrollos\Plataforma Durango\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInterfaceAlfresco.resources
+C:\Desarrollos\Plataforma Durango\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmMDI.resources
+C:\Desarrollos\Plataforma Durango\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\InterfaceAlfresco.Properties.Resources.resources
+C:\Desarrollos\Plataforma Durango\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.cache
+C:\Desarrollos\Plataforma Durango\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CoreCompileInputs.cache
+C:\Desarrollos\Plataforma Durango\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CopyComplete
+C:\Desarrollos\Plataforma Durango\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\InterfaceAlfresco.exe
+C:\Desarrollos\Plataforma Durango\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\InterfaceAlfresco.pdb
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\x86\NET_v2.0\InterfaceAlfresco.exe.config
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\x86\NET_v2.0\InterfaceAlfresco.exe
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\x86\NET_v2.0\InterfaceAlfresco.pdb
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\x86\NET_v2.0\RestSharp.dll
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\x86\NET_v2.0\RestSharp.xml
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\x86\NET_v2.0\Interop.AcroPDFLib.dll
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\x86\NET_v2.0\AxInterop.AcroPDFLib.dll
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.ResolveComReference.cache
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmInterfaceAlfresco.resources
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.GUI.frmMDI.resources
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\InterfaceAlfresco.Properties.Resources.resources
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.cache
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CoreCompileInputs.cache
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CopyComplete
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\InterfaceAlfresco.exe
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\InterfaceAlfresco.pdb
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\InterfaceAlfresco.GUI.PerfilUsuario.resources
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\InterfaceAlfresco.GUI.Password.resources
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\InterfaceAlfresco.GUI.CPassword.resources
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\InterfaceAlfresco.GUI.Reubicacion.resources
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ProgramaInterfaceAlfresco\SistemaArchivo\obj\Debug\InterfaceAlfresco.GUI.ActualizacionMetadatos.resources
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ActualizarAlfresco\SistemaArchivo\x86\NET_v2.0\RestSharp.dll
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ActualizarAlfresco\SistemaArchivo\x86\NET_v2.0\RestSharp.xml
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ActualizarAlfresco\SistemaArchivo\x86\NET_v2.0\Interop.AcroPDFLib.dll
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ActualizarAlfresco\SistemaArchivo\x86\NET_v2.0\AxInterop.AcroPDFLib.dll
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ActualizarAlfresco\SistemaArchivo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ActualizarAlfresco\SistemaArchivo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ActualizarAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.ResolveComReference.cache
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ActualizarAlfresco\SistemaArchivo\obj\Debug\InterfaceAlfresco.GUI.Reubicacion.resources
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ActualizarAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.cache
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ActualizarAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CoreCompileInputs.cache
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ActualizarAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CopyComplete
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ActualizarAlfresco\SistemaArchivo\x86\NET_v2.0\ActualizarAlfresco.exe.config
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ActualizarAlfresco\SistemaArchivo\x86\NET_v2.0\ActualizarAlfresco.exe
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ActualizarAlfresco\SistemaArchivo\x86\NET_v2.0\ActualizarAlfresco.pdb
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ActualizarAlfresco\SistemaArchivo\obj\Debug\ActualizarAlfresco.Properties.Resources.resources
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ActualizarAlfresco\SistemaArchivo\obj\Debug\ActualizarAlfresco.exe
+C:\Desarrollos\Plataforma Durango\Fuentes para compilarse\Programas\ActualizarAlfresco\SistemaArchivo\obj\Debug\ActualizarAlfresco.pdb
+C:\Desarrollos\Durango\2da Version\ActualizarAlfresco\SistemaArchivo\x86\NET_v2.0\ActualizarAlfresco.exe.config
+C:\Desarrollos\Durango\2da Version\ActualizarAlfresco\SistemaArchivo\x86\NET_v2.0\ActualizarAlfresco.exe
+C:\Desarrollos\Durango\2da Version\ActualizarAlfresco\SistemaArchivo\x86\NET_v2.0\ActualizarAlfresco.pdb
+C:\Desarrollos\Durango\2da Version\ActualizarAlfresco\SistemaArchivo\x86\NET_v2.0\RestSharp.dll
+C:\Desarrollos\Durango\2da Version\ActualizarAlfresco\SistemaArchivo\x86\NET_v2.0\RestSharp.xml
+C:\Desarrollos\Durango\2da Version\ActualizarAlfresco\SistemaArchivo\x86\NET_v2.0\Interop.AcroPDFLib.dll
+C:\Desarrollos\Durango\2da Version\ActualizarAlfresco\SistemaArchivo\x86\NET_v2.0\AxInterop.AcroPDFLib.dll
+C:\Desarrollos\Durango\2da Version\ActualizarAlfresco\SistemaArchivo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Desarrollos\Durango\2da Version\ActualizarAlfresco\SistemaArchivo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Desarrollos\Durango\2da Version\ActualizarAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.ResolveComReference.cache
+C:\Desarrollos\Durango\2da Version\ActualizarAlfresco\SistemaArchivo\obj\Debug\InterfaceAlfresco.GUI.Reubicacion.resources
+C:\Desarrollos\Durango\2da Version\ActualizarAlfresco\SistemaArchivo\obj\Debug\ActualizarAlfresco.Properties.Resources.resources
+C:\Desarrollos\Durango\2da Version\ActualizarAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.cache
+C:\Desarrollos\Durango\2da Version\ActualizarAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CoreCompileInputs.cache
+C:\Desarrollos\Durango\2da Version\ActualizarAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CopyComplete
+C:\Desarrollos\Durango\2da Version\ActualizarAlfresco\SistemaArchivo\obj\Debug\ActualizarAlfresco.exe
+C:\Desarrollos\Durango\2da Version\ActualizarAlfresco\SistemaArchivo\obj\Debug\ActualizarAlfresco.pdb
+C:\Desarrollos\Durango\2da Version\ActualizarAlfresco\SistemaArchivo\obj\Debug\SistemaArchivo.csprojAssemblyReference.cache
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersion\SistemaArchivo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersion\SistemaArchivo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersion\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.ResolveComReference.cache
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersion\SistemaArchivo\obj\Debug\InterfaceAlfresco.GUI.Reubicacion.resources
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersion\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.cache
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersion\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CoreCompileInputs.cache
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersion\SistemaArchivo\obj\Debug\ActualizarAlfresco.GUI.Password.resources
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersion\SistemaArchivo\x86\NET_v2.0\RestSharp.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersion\SistemaArchivo\x86\NET_v2.0\RestSharp.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersion\SistemaArchivo\x86\NET_v2.0\Interop.AcroPDFLib.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersion\SistemaArchivo\x86\NET_v2.0\AxInterop.AcroPDFLib.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersion\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CopyComplete
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersion\SistemaArchivo\x86\NET_v2.0\CargaMasiva.exe.config
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersion\SistemaArchivo\x86\NET_v2.0\CargaMasiva.exe
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersion\SistemaArchivo\x86\NET_v2.0\CargaMasiva.pdb
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersion\SistemaArchivo\obj\Debug\CargaMasiva.Properties.Resources.resources
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersion\SistemaArchivo\obj\Debug\CargaMasiva.exe
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersion\SistemaArchivo\obj\Debug\CargaMasiva.pdb
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\CargaMasiva.exe.config
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\CargaMasiva.exe
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\CargaMasiva.pdb
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\RestSharp.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\RestSharp.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\Interop.AcroPDFLib.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\AxInterop.AcroPDFLib.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.ResolveComReference.cache
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\obj\Debug\ActualizarAlfresco.GUI.Password.resources
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\obj\Debug\InterfaceAlfresco.GUI.Reubicacion.resources
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\obj\Debug\CargaMasiva.Properties.Resources.resources
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.cache
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CoreCompileInputs.cache
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CopyComplete
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\obj\Debug\CargaMasiva.exe
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\obj\Debug\CargaMasiva.pdb
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\Npgsql.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\System.Buffers.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\System.Memory.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\System.Numerics.Vectors.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\System.Text.Encodings.Web.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\System.Text.Json.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\System.Threading.Channels.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\System.Threading.Tasks.Extensions.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\System.ValueTuple.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\Npgsql.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\System.Buffers.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\System.Memory.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\System.Numerics.Vectors.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\System.Runtime.CompilerServices.Unsafe.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\System.Text.Encodings.Web.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\System.Text.Json.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\System.Threading.Channels.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\System.Threading.Tasks.Extensions.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQL\SistemaArchivo\x86\NET_v2.0\System.ValueTuple.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\CargaMasiva.exe.config
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\CargaMasiva.exe
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\CargaMasiva.pdb
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\Npgsql.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\RestSharp.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Buffers.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Memory.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Numerics.Vectors.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Text.Encodings.Web.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Text.Json.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Threading.Channels.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Threading.Tasks.Extensions.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.ValueTuple.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\Npgsql.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\RestSharp.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Buffers.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Memory.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Numerics.Vectors.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Runtime.CompilerServices.Unsafe.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Text.Encodings.Web.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Text.Json.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Threading.Channels.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Threading.Tasks.Extensions.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.ValueTuple.xml
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\Interop.AcroPDFLib.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\AxInterop.AcroPDFLib.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.ResolveComReference.cache
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\ActualizarAlfresco.GUI.Password.resources
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\InterfaceAlfresco.GUI.Reubicacion.resources
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.Properties.Resources.resources
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.cache
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CoreCompileInputs.cache
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CopyComplete
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.exe
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.pdb
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.GUI.MenuPrincipal.resources
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\InterfaceAlfresco.GUI.ParametrosSistema.resources
+C:\Todo\Desarrollos\2025\CargaMasivaUdeG\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.AssemblyReference.cache
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\CargaMasiva.exe.config
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\CargaMasiva.exe
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\CargaMasiva.pdb
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\Npgsql.dll
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\RestSharp.dll
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Buffers.dll
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Memory.dll
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Numerics.Vectors.dll
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Text.Encodings.Web.dll
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Text.Json.dll
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Threading.Channels.dll
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Threading.Tasks.Extensions.dll
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.ValueTuple.dll
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\Npgsql.xml
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\RestSharp.xml
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Buffers.xml
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Memory.xml
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Numerics.Vectors.xml
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Runtime.CompilerServices.Unsafe.xml
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Text.Encodings.Web.xml
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Text.Json.xml
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Threading.Channels.xml
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Threading.Tasks.Extensions.xml
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.ValueTuple.xml
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\Interop.AcroPDFLib.dll
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\AxInterop.AcroPDFLib.dll
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.ResolveComReference.cache
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.GUI.MenuPrincipal.resources
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\InterfaceAlfresco.GUI.ParametrosSistema.resources
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\ActualizarAlfresco.GUI.Password.resources
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.Properties.Resources.resources
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.cache
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CoreCompileInputs.cache
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CopyComplete
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.exe
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.pdb
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.GUI.Automatico.resources
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.exe.config
+C:\Todo\Desarrollos\2025\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.AssemblyReference.cache
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\CargaMasiva.exe.config
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\CargaMasiva.exe
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\CargaMasiva.pdb
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\Npgsql.dll
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\RestSharp.dll
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Buffers.dll
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Memory.dll
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Numerics.Vectors.dll
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Text.Encodings.Web.dll
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Text.Json.dll
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Threading.Channels.dll
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Threading.Tasks.Extensions.dll
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.ValueTuple.dll
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\Microsoft.Bcl.AsyncInterfaces.xml
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\Npgsql.xml
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\RestSharp.xml
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Buffers.xml
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Memory.xml
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Numerics.Vectors.xml
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Runtime.CompilerServices.Unsafe.xml
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Text.Encodings.Web.xml
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Text.Json.xml
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Threading.Channels.xml
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Threading.Tasks.Extensions.xml
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.ValueTuple.xml
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\Interop.AcroPDFLib.dll
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\AxInterop.AcroPDFLib.dll
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.AssemblyReference.cache
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.exe.config
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\Interop.AcroPDFLib.dll
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.ResolveComReference.cache
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.GUI.Automatico.resources
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.GUI.MenuPrincipal.resources
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\InterfaceAlfresco.GUI.ParametrosSistema.resources
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\ActualizarAlfresco.GUI.Password.resources
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.Properties.Resources.resources
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.cache
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CoreCompileInputs.cache
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CopyComplete
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.exe
+C:\UnidadE\Sperto_Digital\Entregados\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.pdb
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\CargaMasiva.exe.config
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\CargaMasiva.exe
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\CargaMasiva.pdb
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\Npgsql.dll
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\RestSharp.dll
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Buffers.dll
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Memory.dll
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Numerics.Vectors.dll
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Text.Encodings.Web.dll
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Text.Json.dll
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Threading.Channels.dll
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Threading.Tasks.Extensions.dll
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.ValueTuple.dll
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\Microsoft.Bcl.AsyncInterfaces.xml
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\Npgsql.xml
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\RestSharp.xml
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Buffers.xml
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Memory.xml
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Numerics.Vectors.xml
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Runtime.CompilerServices.Unsafe.xml
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Text.Encodings.Web.xml
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Text.Json.xml
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Threading.Channels.xml
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.Threading.Tasks.Extensions.xml
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\x86\NET_v2.0\System.ValueTuple.xml
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.exe.config
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.GUI.Automatico.resources
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.GUI.MenuPrincipal.resources
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\InterfaceAlfresco.GUI.ParametrosSistema.resources
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\ActualizarAlfresco.GUI.Password.resources
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.Properties.Resources.resources
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.cache
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CoreCompileInputs.cache
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CopyComplete
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.exe
+C:\UnidadE\Sperto_Digital\CargaMasivaEstudiante\ActualizarNuevaVersionPostgreSQLVentanadeAvance\SistemaArchivo\obj\Debug\CargaMasiva.pdb
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\CargaMasiva.exe.config
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\CargaMasiva.exe
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\CargaMasiva.pdb
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\RestSharp.dll
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\System.Buffers.dll
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\System.Memory.dll
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\System.Numerics.Vectors.dll
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\System.Text.Encodings.Web.dll
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\System.Text.Json.dll
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\System.Threading.Channels.dll
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\System.Threading.Tasks.Extensions.dll
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\System.ValueTuple.dll
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\RestSharp.xml
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\System.Buffers.xml
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\System.Memory.xml
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\System.Numerics.Vectors.xml
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\System.Runtime.CompilerServices.Unsafe.xml
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\System.Text.Encodings.Web.xml
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\System.Text.Json.xml
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\System.Threading.Channels.xml
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\System.Threading.Tasks.Extensions.xml
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\x86\NET_v2.0\System.ValueTuple.xml
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.AssemblyReference.cache
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\obj\Debug\CargaMasiva.GUI.Automatico.resources
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\obj\Debug\CargaMasiva.GUI.MenuPrincipal.resources
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\obj\Debug\InterfaceAlfresco.GUI.ParametrosSistema.resources
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\obj\Debug\ActualizarAlfresco.GUI.Password.resources
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\obj\Debug\CargaMasiva.Properties.Resources.resources
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.GenerateResource.cache
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\obj\Debug\SistemaArchivo.csproj.CoreCompileInputs.cache
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\obj\Debug\SistemaA.7B2D3346.Up2Date
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\obj\Debug\CargaMasiva.exe
+C:\Externos\Desarrollos\UdeG\Carga Masiva Estudiantes V4.00\Fuentes\SistemaArchivo\obj\Debug\CargaMasiva.pdb

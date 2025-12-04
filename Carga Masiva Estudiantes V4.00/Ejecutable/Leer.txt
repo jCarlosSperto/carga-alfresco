@@ -1,0 +1,1 @@
+Copiar todos los archivos que se encuentran en esta carpeta a la ruta C:\UdeG\Carga Masiva
