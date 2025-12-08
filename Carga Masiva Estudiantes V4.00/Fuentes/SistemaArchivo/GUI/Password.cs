@@ -133,13 +133,13 @@ namespace ActualizarAlfresco.GUI
                 }
                 else
                 {
-                    MessageBox.Show("Archivo C:\\UdeG\\Url.txt con información mal definida, favor de verificar", "Error");
+                    MessageBox.Show("Archivo C:\\UdeG\\Parametros\\Parametros.ini con información mal definida, favor de verificar", "Error");
                     //Application.Exit();
                 }
             }
             else
             {
-                MessageBox.Show("Archivo C:\\UdeG\\Url.txt No Existente", "Error");
+                MessageBox.Show("Archivo C:\\UdeG\\Parametros\\Parametros.ini No Existente", "Error");
                 VariablesGlobales.sParametrizar = "0";
                 button1.Enabled = false;
                 button1.Visible = false;

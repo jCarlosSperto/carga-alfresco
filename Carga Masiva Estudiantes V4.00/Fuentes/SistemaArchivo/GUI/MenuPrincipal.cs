@@ -241,7 +241,7 @@ namespace CargaMasiva.GUI
             else
             {
                 ReaderObject.Close();
-                MessageBox.Show("No existe el Archivo de Parametros favor de colocarlo en la ruta definida C:\\UdeG\\Url.txt", "Error");
+                MessageBox.Show("No existe el Archivo de Parametros favor de colocarlo en la ruta definida C:\\UdeG\\Parametros\\Parametros.ini", "Error");
                 //Application.Exit();
             }
         }

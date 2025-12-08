@@ -11,6 +11,7 @@ using System.Security.Cryptography;
 using System.Configuration;
 using System.Data.SqlClient;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace CargaMasiva.GUI
 {
@@ -29,7 +30,7 @@ namespace CargaMasiva.GUI
         string connectionString = null;
         string basedatos = null;
         int iTotalReg = 1500;
-        string[,] DatosEstudianteProcesar = new string[1500, 6];
+        string[,] DatosEstudianteProcesar = new string[1500, 7];
 
         public Automatico()
         {
@@ -66,12 +67,13 @@ namespace CargaMasiva.GUI
                 DatosEstudianteProcesar[i, 3] = string.Empty;
                 DatosEstudianteProcesar[i, 4] = string.Empty;
                 DatosEstudianteProcesar[i, 5] = string.Empty;
+                DatosEstudianteProcesar[i, 6] = string.Empty;
             }
         }
         private void ObtenRegistrosProcesar()
         {
             Inicializa();
-            string sQuery = "SELECT top 1500 NombrePdf, CodigoEscolar, CodigoEscolarCorregido, Carrera, NombreCompleto, FechaGraduacion FROM " + basedatos + ".[dbo].[Captura] where (EstatusAlfresco is null and ImagenRotada ='NO' and HojasBlancas ='NO' and EstatusCalidad is null and not ComentarioExpediente like '%EXPEDIENTE CON MAS DE 1 PERSONA%') or (EstatusAlfresco is null and EstatusCalidad = 'CORREGIDO')";
+            string sQuery = "SELECT TOP 1500 NombrePdf, CodigoEscolar, CodigoEscolarCorregido, Bachillerato, Escuela, NombreCompleto, FechaCaptura FROM " + basedatos + ".[dbo].[CapturaDes] WHERE (EstatusAlfresco IS NULL AND ImagenRotada = 'NO' AND HojasBlancas = 'NO' AND NOT ComentarioExpediente LIKE '%EXPEDIENTE CON MAS DE 1 PERSONA%')";
             int iIndice = 0;
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
@@ -88,7 +90,7 @@ namespace CargaMasiva.GUI
                                 DatosEstudianteProcesar[iIndice, 0] = reader["NombrePdf"].ToString();
                                 DatosEstudianteProcesar[iIndice, 1] = reader["CodigoEscolar"].ToString();
                                 DatosEstudianteProcesar[iIndice, 2] = reader["CodigoEscolarCorregido"].ToString();
-                                DatosEstudianteProcesar[iIndice, 3] = reader["Carrera"].ToString();
+                                DatosEstudianteProcesar[iIndice, 3] = reader["Bachillerato"].ToString();
                                 DatosEstudianteProcesar[iIndice, 4] = reader["NombreCompleto"].ToString();
                                 DatosEstudianteProcesar[iIndice, 4] = DatosEstudianteProcesar[iIndice, 4].Replace("\\", "_");
                                 DatosEstudianteProcesar[iIndice, 4] = DatosEstudianteProcesar[iIndice, 4].Replace("/", "_");
@@ -99,7 +101,8 @@ namespace CargaMasiva.GUI
                                 DatosEstudianteProcesar[iIndice, 4] = DatosEstudianteProcesar[iIndice, 4].Replace(">", "_");
                                 DatosEstudianteProcesar[iIndice, 4] = DatosEstudianteProcesar[iIndice, 4].Replace("<", "_");
                                 DatosEstudianteProcesar[iIndice, 4] = DatosEstudianteProcesar[iIndice, 4].Replace("|", "_");
-                                DatosEstudianteProcesar[iIndice, 5] = reader["FechaGraduacion"].ToString();
+                                DatosEstudianteProcesar[iIndice, 5] = reader["FechaCaptura"].ToString();
+                                DatosEstudianteProcesar[iIndice, 6] = reader["Escuela"].ToString();
                                 iIndice = iIndice + 1;
                             }
                         }
@@ -113,9 +116,44 @@ namespace CargaMasiva.GUI
             }
         }
 
+        private string ExtraeAñoFecha(string fecha)
+        {
+            // Intenta extraer el año de diferentes formatos de fecha
+            if (string.IsNullOrEmpty(fecha))
+                return DateTime.Now.Year.ToString();
+            
+            try
+            {
+                // Si es un DateTime válido, extrae el año
+                DateTime dt;
+                if (DateTime.TryParse(fecha, out dt))
+                {
+                    return dt.Year.ToString();
+                }
+                // Si tiene formato YYYY-MM-DD, extrae los primeros 4 caracteres
+                if (fecha.Length >= 4 && fecha.Substring(0, 4).All(char.IsDigit))
+                {
+                    return fecha.Substring(0, 4);
+                }
+                // Si tiene formato DD/MM/YYYY o similar, busca el año
+                if (fecha.Length >= 10)
+                {
+                    // Intenta extraer de posición 6-9 (formato común DD/MM/YYYY)
+                    if (fecha.Length > 9 && fecha.Substring(6, 4).All(char.IsDigit))
+                    {
+                        return fecha.Substring(6, 4);
+                    }
+                }
+            }
+            catch { }
+            
+            // Si no se puede extraer, retorna el año actual
+            return DateTime.Now.Year.ToString();
+        }
+
         private void ActualizaEstatusAlfresco(string valor, string sNombrePdf, string sFechaHora)
         {
-            string updateQuery = "UPDATE " + basedatos + ".[dbo].[Captura] SET EstatusAlfresco = @newValue, FechaHora = @newFechaHora  WHERE NombrePdf = @id";
+            string updateQuery = "UPDATE " + basedatos + ".[dbo].[CapturaDes] SET EstatusAlfresco = @newValue, FechaHora = @newFechaHora  WHERE NombrePdf = @id";
             string newValue = valor;
             string id = sNombrePdf;
             using (SqlConnection connection = new SqlConnection(connectionString))
@@ -277,7 +315,7 @@ namespace CargaMasiva.GUI
                 //MessageBox.Show(sNodo);
 
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 //MessageBox.Show(ex.ToString());
                 if (wresp != null)
@@ -302,15 +340,15 @@ namespace CargaMasiva.GUI
             }
         }
 
-        private void ProcesaAlfresco(string Codigo, string AñoTitulacion, string TipoDocumento, string Ruta, StreamWriter writer, string Line, string Nombre)
+        private void ProcesaAlfresco(string Codigo, string IdExpediente, string TipoDocumento, string Ruta, StreamWriter writer, string Line, string Nombre, string SitioNombre)
         {
             string sToken = ObtenToken();
             sToken = ObtenToken();
             if (sToken.IndexOf("TICKET") > -1)
             {
                 NameValueCollection nvc = new NameValueCollection();
-                nvc.Add("sitionombre", "EUE");
-                nvc.Add("IDEXPEDIENTE", AñoTitulacion);
+                nvc.Add("sitionombre", SitioNombre);
+                nvc.Add("IDEXPEDIENTE", IdExpediente);
                 nvc.Add("TIPODOCUMENTO", TipoDocumento);
                 //var mimeType = MimeMapping.GetMimeMapping(Ruta);
                 string mimeType = MimeHelper.GetMimeType(Ruta);
@@ -430,7 +468,7 @@ namespace CargaMasiva.GUI
                             Console.WriteLine("Archivo eliminado.");
                         }
                         StreamWriter writera = new StreamWriter(rutaArchivo1, false, System.Text.Encoding.Default);
-                        writera.WriteLine("Codigo Escolar,Fecha Titulacion, Tipo de Documento,Ruta");
+                        writera.WriteLine("NombrePdf|CodigoEscolar|TipoDocumento|AñoActual|Ruta|IdExpediente|SitioNombre");
                         for (int iIndice = 0; iIndice < iTotalReg; iIndice++)
                         {
                             if (!DatosEstudianteProcesar[iIndice, 0].Equals(string.Empty))
@@ -441,7 +479,16 @@ namespace CargaMasiva.GUI
                                 string ArchivoDestino = RutaFinal;
                                 string Codigo = string.Empty;
                                 Codigo = DatosEstudianteProcesar[iIndice, 0];
-                                Codigo = Codigo.Substring(0, Codigo.Length - 4);
+                                // Validar que el nombre del archivo tenga al menos 4 caracteres antes de quitar la extensión
+                                if (Codigo.Length >= 4)
+                                {
+                                    Codigo = Codigo.Substring(0, Codigo.Length - 4);
+                                }
+                                else
+                                {
+                                    // Si el nombre es muy corto, usar el nombre completo sin extensión
+                                    Codigo = Codigo.Replace(".pdf", "").Replace(".PDF", "");
+                                }
                                 Codigo = Codigo.ToUpper();
                                 Codigo = Codigo.Replace("_", "-");
                                 Codigo = Codigo.Replace(" ", "");
@@ -534,13 +581,25 @@ namespace CargaMasiva.GUI
                                         MessageBox.Show("No se encontro Archivo Origen ==> " + ArchivoOrigen);
                                     }                                                                        
                                     ActualizaEstatusAlfresco("EN GENERACION DE ARCHIVO", DatosEstudianteProcesar[iIndice, 0], dFechaHora);
+                                    // Usa el año actual en lugar de FechaCaptura
+                                    string añoActual = DateTime.Now.Year.ToString();
+                                    // El tipo de documento es el nombre de la escuela
+                                    string tipoDocumento = DatosEstudianteProcesar[iIndice, 6]; // Campo Escuela
+                                    // Determina si es ESCUELAS o ESCUELAS DESINCORPORADAS
+                                    string idExpediente = "ESCUELAS";
+                                    string sitioNombre = "ESCUELAS DESINCORPORADAS";
+                                    // Si el nombre de la escuela contiene "DESINCORPORADAS", usar ese como IDEXPEDIENTE también
+                                    if (!string.IsNullOrEmpty(tipoDocumento) && tipoDocumento.ToUpper().Contains("DESINCORPORADAS"))
+                                    {
+                                        idExpediente = "ESCUELAS DESINCORPORADAS";
+                                    }
                                     if (string.IsNullOrEmpty(DatosEstudianteProcesar[iIndice, 2]))
                                     {
-                                        writera.WriteLine(DatosEstudianteProcesar[iIndice, 0] + "|" + DatosEstudianteProcesar[iIndice, 1] + "|" + DatosEstudianteProcesar[iIndice, 3] + "|" + DatosEstudianteProcesar[iIndice, 5].Substring(6,4) + "|" + ArchivoDestino);
+                                        writera.WriteLine(DatosEstudianteProcesar[iIndice, 0] + "|" + DatosEstudianteProcesar[iIndice, 1] + "|" + tipoDocumento + "|" + añoActual + "|" + ArchivoDestino + "|" + idExpediente + "|" + sitioNombre);
                                     }
                                     else
                                     {
-                                        writera.WriteLine(DatosEstudianteProcesar[iIndice, 0] + "|" + DatosEstudianteProcesar[iIndice, 2] + "|" + DatosEstudianteProcesar[iIndice, 3] + "|" + DatosEstudianteProcesar[iIndice, 5].Substring(6, 4) + "|" + ArchivoDestino);
+                                        writera.WriteLine(DatosEstudianteProcesar[iIndice, 0] + "|" + DatosEstudianteProcesar[iIndice, 2] + "|" + tipoDocumento + "|" + añoActual + "|" + ArchivoDestino + "|" + idExpediente + "|" + sitioNombre);
                                     }
                                 }
                                 else
@@ -550,24 +609,59 @@ namespace CargaMasiva.GUI
                             }
                         }
                         writera.Close();
+                        
+                        // Verificar que el archivo se haya creado correctamente
+                        if (!File.Exists(rutaArchivo1))
+                        {
+                            MessageBox.Show("Error: No se pudo crear el archivo de procesamiento.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                            button1.Enabled = true;
+                            Cursor.Current = Cursors.Arrow;
+                            return;
+                        }
+                        
                         int lineas = File.ReadAllLines(rutaArchivo1).Length - 1;
+                        // Asegurar que lineas no sea negativo
+                        if (lineas < 0)
+                        {
+                            lineas = 0;
+                        }
                         textBox3.Text = lineas.ToString();
                         textBox3.Refresh();
                         int iTotal = int.Parse(textBox3.Text);
                         int cociente = 0;
+                        
+                        // Validar que iTotal no sea 0 para evitar división por cero
+                        if (iTotal == 0)
+                        {
+                            MessageBox.Show("No hay registros para procesar. El archivo está vacío o no se encontraron archivos PDF válidos.", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                            button1.Enabled = true;
+                            Cursor.Current = Cursors.Arrow;
+                            return;
+                        }
+                        
                         if (iTotal > 99)
                         {
                             cociente = iTotal / 100;
+                            // Asegurar que cociente no sea 0
+                            if (cociente == 0)
+                            {
+                                cociente = 1;
+                            }
                         }
                         else
                         {
+                            // Evitar división por cero
                             cociente = 100 / iTotal;
+                            if (cociente == 0)
+                            {
+                                cociente = 1;
+                            }
                         }
                         progressBar1.Value = 0; // Reiniciar barra
                         Cursor.Current = Cursors.WaitCursor;
                         StreamReader ReaderObject = new StreamReader(rutaArchivo1, System.Text.Encoding.Default);
                         StreamWriter writer = new StreamWriter(rutaArchivo2, true,System.Text.Encoding.Default);
-                        writer.WriteLine("Nombre Pdf,Codigo Escolar,Tipo de Documento,Año Titulacion, Ruta Archivo,Resultado,Nodo");
+                        writer.WriteLine("Nombre Pdf,Codigo Escolar,Tipo de Documento,Año Actual, Ruta Archivo,Id Expediente,Sitio Nombre,Resultado,Nodo");
                         string Line;
                         int iLine = 0;
                         while ((Line = ReaderObject.ReadLine()) != null)
@@ -581,11 +675,13 @@ namespace CargaMasiva.GUI
                                 string[] campos = Line.Split('|');
                                 if (campos.Length > 2)
                                 {
-                                    //IDExpediente|Sitio|TipoDoc|CodigoDocente|RequisitoRubro(0 requisito 1 rubro)|Item|Ruta
+                                    //NombrePdf|CodigoEscolar|TipoDocumento|AñoActual|Ruta|IdExpediente|SitioNombre
                                     string Codigo = campos[1];
                                     string TipoDocumento = campos[2];
-                                    string AñoTitulacion = campos[3];
+                                    string AñoActual = campos[3];
                                     string Ruta = campos[4];
+                                    string IdExpediente = campos.Length > 5 ? campos[5] : "ESCUELAS";
+                                    string SitioNombre = campos.Length > 6 ? campos[6] : "ESCUELAS DESINCORPORADAS";
                                     string sError = string.Empty;
                                     string[] campos2 = Ruta.Split('\\');
                                     string Nombre = campos2[campos2.Length - 1];
@@ -621,11 +717,11 @@ namespace CargaMasiva.GUI
                                                 }
                                                 if (sError == string.Empty)
                                                 {
-                                                    ProcesaAlfresco(Codigo, AñoTitulacion, TipoDocumento, Ruta, writer, Line, Nombre);
+                                                    ProcesaAlfresco(Codigo, IdExpediente, TipoDocumento, Ruta, writer, Line, Nombre, SitioNombre);
                                                     if (bOk.Equals("SI"))
                                                     {
                                                         //Quitar insertaRegistroCargaMasiva(int.Parse(Codigo), int.Parse(Item), sNodo, short.Parse(Requisito));
-                                                        if (iTotal > 99)
+                                                        if (iTotal > 99 && cociente > 0)
                                                         {
                                                             int residuo = iLine % cociente;
                                                             if (residuo == 0)
@@ -652,12 +748,24 @@ namespace CargaMasiva.GUI
                                                             {
                                                                 iAvance = 100;
                                                             }
-                                                            else
+                                                            else if (cociente > 0)
                                                             {
                                                                 iAvance = iLine * cociente;
                                                                 if (iAvance > 100)
                                                                 {
                                                                     iAvance = 100;
+                                                                }
+                                                            }
+                                                            else
+                                                            {
+                                                                // Si cociente es 0, calcular porcentaje directamente
+                                                                if (iTotal > 0)
+                                                                {
+                                                                    iAvance = (int)((iLine * 100.0) / iTotal);
+                                                                    if (iAvance > 100)
+                                                                    {
+                                                                        iAvance = 100;
+                                                                    }
                                                                 }
                                                             }
                                                             progressBar1.Value = iAvance;
@@ -704,8 +812,8 @@ namespace CargaMasiva.GUI
                                 string[] partes = Line.Split('|');
                                 string sNombrePdf = partes[0];
                                 string sCodigoEscolar = partes[1];
-                                string sArchivoPdf = partes[4];
-                                string sEstatusAlfresco = partes[5];
+                                string sArchivoPdf = partes.Length > 4 ? partes[4] : string.Empty;
+                                string sEstatusAlfresco = partes.Length > 7 ? partes[7] : (partes.Length > 5 ? partes[5] : string.Empty);
                                 ActualizaEstatusAlfresco(sEstatusAlfresco, sNombrePdf, dFechaHora);
                                 InsertaLog(dFechaHora + iLine2.ToString(), VariablesGlobales.Usuario, Line);
                                 if (!sEstatusAlfresco.StartsWith("Cargado Exitosamente"))
@@ -788,7 +896,7 @@ namespace CargaMasiva.GUI
             else
             {
                 ReaderObject.Close();
-                MessageBox.Show("No existe el Archivo de Parametros favor de colocarlo en la ruta definida C:\\UdeG\\Url.txt", "Error");
+                MessageBox.Show("No existe el Archivo de Parametros favor de colocarlo en la ruta definida C:\\UdeG\\Parametros\\Parametros.ini", "Error");
                 //Application.Exit();
             }
             GeneraCadena();
@@ -796,3 +904,4 @@ namespace CargaMasiva.GUI
         }
     }
 }
+

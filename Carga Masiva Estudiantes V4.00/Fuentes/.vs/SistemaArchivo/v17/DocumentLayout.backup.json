@@ -1,12 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Externos\\Desarrollos\\UdeG\\Carga Masiva Estudiantes V4.00\\Fuentes\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\juan_\\Downloads\\Telegram Desktop\\Carga Masiva Estudiantes V4.00\\Carga Masiva Estudiantes V4.00\\Fuentes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42F3D271-5FEA-4913-B002-05D20F840153}|SistemaArchivo\\SistemaArchivo.csproj|c:\\users\\juan_\\downloads\\telegram desktop\\carga masiva estudiantes v4.00\\carga masiva estudiantes v4.00\\fuentes\\sistemaarchivo\\gui\\automatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F3D271-5FEA-4913-B002-05D20F840153}|SistemaArchivo\\SistemaArchivo.csproj|solutionrelative:sistemaarchivo\\gui\\automatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F3D271-5FEA-4913-B002-05D20F840153}|SistemaArchivo\\SistemaArchivo.csproj|C:\\Users\\juan_\\Downloads\\Telegram Desktop\\Carga Masiva Estudiantes V4.00\\Carga Masiva Estudiantes V4.00\\Fuentes\\sistemaarchivo\\gui\\automatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42F3D271-5FEA-4913-B002-05D20F840153}|SistemaArchivo\\SistemaArchivo.csproj|solutionrelative:sistemaarchivo\\gui\\automatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Automatico.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\Downloads\\Telegram Desktop\\Carga Masiva Estudiantes V4.00\\Carga Masiva Estudiantes V4.00\\Fuentes\\SistemaArchivo\\GUI\\Automatico.cs",
+              "RelativeDocumentMoniker": "SistemaArchivo\\GUI\\Automatico.cs",
+              "ToolTip": "C:\\Users\\juan_\\Downloads\\Telegram Desktop\\Carga Masiva Estudiantes V4.00\\Carga Masiva Estudiantes V4.00\\Fuentes\\SistemaArchivo\\GUI\\Automatico.cs",
+              "RelativeToolTip": "SistemaArchivo\\GUI\\Automatico.cs",
+              "ViewState": "AgIAAC4BAAAAAAAAAADwv7kAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:49:04.325Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Automatico.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juan_\\Downloads\\Telegram Desktop\\Carga Masiva Estudiantes V4.00\\Carga Masiva Estudiantes V4.00\\Fuentes\\SistemaArchivo\\GUI\\Automatico.cs",
+              "RelativeDocumentMoniker": "SistemaArchivo\\GUI\\Automatico.cs",
+              "ToolTip": "C:\\Externos\\Desarrollos\\UdeG\\Carga Masiva Estudiantes V4.00\\Fuentes\\SistemaArchivo\\GUI\\Automatico.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Externos\\Desarrollos\\UdeG\\Carga Masiva Estudiantes V4.00\\Fuentes\\SistemaArchivo\\GUI\\Automatico.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:49:00.229Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
