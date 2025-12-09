@@ -440,11 +440,23 @@ namespace CargaMasiva.GUI
                                 string ArchivoOrigen = RutaOriginal + DatosEstudianteProcesar[iIndice, 0];
                                 string ArchivoDestino = RutaFinal;
                                 string Codigo = string.Empty;
+                                // Obtener el NombrePdf completo (ejemplo: "arch 100_10.pdf")
                                 Codigo = DatosEstudianteProcesar[iIndice, 0];
+                                // Eliminar la extensión .pdf
                                 Codigo = Codigo.Substring(0, Codigo.Length - 4);
+                                // Convertir a mayúsculas para procesamiento
                                 Codigo = Codigo.ToUpper();
-                                Codigo = Codigo.Replace("_", "-");
+                                // Eliminar el prefijo "ARCH" si existe (puede venir como "arch", "ARCH", etc.)
+                                if (Codigo.StartsWith("ARCH"))
+                                {
+                                    Codigo = Codigo.Substring(4); // Eliminar "ARCH"
+                                }
+                                // Eliminar espacios en blanco
+                                Codigo = Codigo.Trim();
                                 Codigo = Codigo.Replace(" ", "");
+                                // Reemplazar guiones bajos por guiones
+                                Codigo = Codigo.Replace("_", "-");
+                                // Agregar "G" al inicio si no empieza con "G"
                                 if (Codigo.IndexOf("CAJA") > -1)
                                 {
                                     Codigo = Codigo.Replace("CAJA", "G");
@@ -457,7 +469,10 @@ namespace CargaMasiva.GUI
                                     }
                                     else
                                     {
-                                        Codigo = "G" + Codigo;
+                                        if (!Codigo.StartsWith("G"))
+                                        {
+                                            Codigo = "G" + Codigo;
+                                        }
                                     }
                                 }
                                 if (File.Exists(ArchivoOrigen))
